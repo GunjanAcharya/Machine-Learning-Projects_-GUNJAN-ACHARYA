@@ -1,4 +1,4 @@
-# Machine-Learning-Projects_-GUNJAN-ACHARYA
+# Project-Description_ GUNJAN-ACHARYA
 In the field of particle physics, accurate identification and classification of events are crucial for understanding fundamental particles and their interactions.
 The provided dataset contains various features derived from particle physics experiments, and the goal is to build a machine-learning model to classify events into Signal (s) and Background (b) categories.
 This classification aids in distinguishing events of interest (signal) from background noise.
